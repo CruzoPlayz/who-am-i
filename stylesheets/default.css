@@ -2,6 +2,7 @@ body {
     font-family: sans-serif;
     text-align: center;
     position: relative; left:0px; top:200px;
+    text-color: white;
 }
 h1 {
     font-family: fonts/Roboto;
